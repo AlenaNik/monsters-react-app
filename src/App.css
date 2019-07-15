@@ -1,6 +1,6 @@
 .App {
   text-align: center;
-  color: #d50401;
+  color: rgba(202,228,225,0.92);
   animation: neon .08s ease-in-out infinite alternate;
 }
 @keyframes neon {
